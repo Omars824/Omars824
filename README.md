@@ -9,7 +9,9 @@ I've been learning to code for over 2 year, currently trying to switch careers. 
 *   🌍  I'm based in Chicago, IL
 *   ✉️  You can contact me at [Omars824@gmail.com](mailto:Omars824@gmail.com)
 *   🧠  I'm learning React
-*   🤝  I'm open to collaborating on projects### Skills 
+*   🤝  I'm open to collaborating on projects
+   
+   ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
